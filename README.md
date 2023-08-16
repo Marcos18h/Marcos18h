@@ -24,7 +24,7 @@
 </div>
 <div>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos18h&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos18h&layout=compact&langs_count=8&card_width=100" />
 </a>
 </div>
 
