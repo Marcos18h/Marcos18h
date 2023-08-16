@@ -23,7 +23,7 @@
      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" width="110px" height="30px">
 </div>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos18h&layout=donut-vertical)](https://github.com/marcos18h/github-readme-stats)
 
 
 
