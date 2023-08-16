@@ -22,8 +22,11 @@
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="110px" height="30px">
      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" width="110px" height="30px">
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos18h&layout=donut-vertical)](https://github.com/marcos18h/github-readme-stats)
+<div>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos18h&layout=compact&langs_count=8&card_width=320" />
+</a>
+</div>
 
 
 
