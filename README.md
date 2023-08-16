@@ -3,7 +3,7 @@
 <h3>Um pouco sobre mim:</h3>
 <p>Começei os estudos na aréa da tecnologia em 2021 atráves do projeto <a href="https://vainaweb.com.br/">Vai na Web</a>.</p>
 <p>Desde então explorei várias áreas a procura de uma que me encontrasse.</p>
-<p>Me identifique muito com a parte <strong>Back-End</strong> e <strong>Dados</strong>, por isso a decição de estudar <strong>Banco de Dados.</strong></p>
+<p>Me identifique muito com a parte <strong>Back-End</strong> e <strong>Dados</strong>, por isso a decisão de estudar <strong>Banco de Dados.</strong></p>
 <h2>Soft Skills:</h2>
 <ul>
   <li><strong>Adaptação 🐜</strong></li>
